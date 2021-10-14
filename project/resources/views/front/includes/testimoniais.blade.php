@@ -12,7 +12,7 @@
                         <div class="item">
                             <div class="testimony-slide active text-center">
                                 <figure>
-                                    <img src="images/person_1.jpg" alt="user">
+                                    <img src="front/assets/images/person_1.jpg" alt="user">
                                 </figure>
                                 <span>Jean Doe, via <a href="#" class="twitter">Twitter</a></span>
                                 <blockquote>
@@ -23,7 +23,7 @@
                         <div class="item">
                             <div class="testimony-slide active text-center">
                                 <figure>
-                                    <img src="images/person_2.jpg" alt="user">
+                                    <img src="front/assets/images/person_2.jpg" alt="user">
                                 </figure>
                                 <span>John Doe, via <a href="#" class="twitter">Twitter</a></span>
                                 <blockquote>
@@ -34,7 +34,7 @@
                         <div class="item">
                             <div class="testimony-slide active text-center">
                                 <figure>
-                                    <img src="images/person_3.jpg" alt="user">
+                                    <img src="front/assets/images/person_3.jpg" alt="user">
                                 </figure>
                                 <span>John Doe, via <a href="#" class="twitter">Twitter</a></span>
                                 <blockquote>
