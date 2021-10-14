@@ -19,7 +19,8 @@ class WebController extends Controller
     }
 
     public function blog(){
-        return view('front.blog');
+        $posts = Post::orderBy('created_at', 'DESC')->get();
+        return view('front.blog', ['posts' => $posts]);
     }
 
     public function article(){
