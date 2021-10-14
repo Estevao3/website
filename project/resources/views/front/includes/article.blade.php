@@ -1,3 +1,5 @@
+@extends('front.includes.home')
+@section('content')
 <div id="fh5co-blog">
     <div class="container">
         <div class="row animate-box">
@@ -46,3 +48,5 @@
         </div>
     </div>
 </div>
+
+@endsection

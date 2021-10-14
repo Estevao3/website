@@ -2,11 +2,15 @@
 
 namespace App\Http\Controllers;
 
+use App\Post;
 use Illuminate\Http\Request;
 
 class WebController extends Controller
 {
     public function home(){
+
+        $post = Post::orderBy('created_at', 'DESC')->limit(3)->get();
+
         return view('front.home');
     }
 

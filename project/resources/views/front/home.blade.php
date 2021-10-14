@@ -216,7 +216,10 @@
 
     @include('front.includes.testimoniais')
 
-    @include('front.includes.article')
+    @isset($p)
+        {{ var_dump($p) }}
+    @include('content')
+    @endisset
 
     @include('front.includes.optin')
 @endsection
