@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="ffabaca6-6bab-41b1-a18a-51a8bce04251" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="ffabaca6-6bab-41b1-a18a-51a8bce04251" name="Changes" comment="" />
+>>>>>>> parent of d6b38ea (reverter)
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,8 +162,7 @@
       <option name="presentableId" value="Default" />
       <updated>1634065260589</updated>
       <workItem from="1634065262980" duration="13245000" />
-      <workItem from="1634131669275" duration="23511000" />
-      <workItem from="1634214145957" duration="3386000" />
+      <workItem from="1634131669275" duration="22273000" />
     </task>
     <servers />
   </component>

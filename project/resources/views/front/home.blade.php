@@ -216,9 +216,8 @@
 
     @include('front.includes.testimoniais')
 
-    @isset($p)
-        {{ var_dump($p) }}
-    @include('content')
+    @isset($posts)
+    @include('front.includes.article')
     @endisset
 
     @include('front.includes.optin')

@@ -9,9 +9,9 @@ class WebController extends Controller
 {
     public function home(){
 
-        $post = Post::orderBy('created_at', 'DESC')->limit(3)->get();
+        $posts = Post::orderBy('created_at', 'DESC')->limit(3)->get();
+        return view('front.home', ['posts' => $posts]);
 
-        return view('front.home');
     }
 
     public function course(){
