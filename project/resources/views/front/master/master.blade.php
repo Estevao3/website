@@ -70,6 +70,7 @@
 
 <script src="{{ url(mix('front/assets/js/main.js')) }}"></script>
 
+
 </body>
 </html>
 
